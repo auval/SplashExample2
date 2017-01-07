@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///media/3T/ws/Splash2Sample/Splash2Sample.iml" filepath="/media/3T/ws/Splash2Sample/Splash2Sample.iml" />
+      <module fileurl="file:///media/3T/ws/Splash2Sample/app/app.iml" filepath="/media/3T/ws/Splash2Sample/app/app.iml" />
+    </modules>
+  </component>
+</project>
